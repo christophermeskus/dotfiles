@@ -1,2 +1,2 @@
 # dotfiles
-config files for my build of dwm
+config files for my development workflow
